@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="package practice" parallel="classes" verbose="2" thread-count="2">
+    <test name="package tests">
+        <packages>
+            <package name="com.techproed.Batch3SeleniumPractice.day6"></package>
+            <package name="com.techproed.Batch3SeleniumPractice.Day\]-[]tr5"></package>
+        </packages>
+    </test>
+</suite>
+

@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="calass practice" parallel="classes" verbose="2">
+
+    <test name="Login Tests">
+
+        <classes>
+
+            <class name="com.techproed.Batch3SeleniumPractice.Day4.TestCase4"/>
+            <class name="com.techproed.Batch3SeleniumPractice.day6.TestCase1"/>
+        </classes>
+    </test>
+</suite>

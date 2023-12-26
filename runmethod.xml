@@ -1,0 +1,18 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Test Suite 3">
+    <test name="test" preserve-order="false">
+        <classes>
+            <class name="com.techproed.Batch3SeleniumPractice.Day4.TestCase4">
+                <methods>
+                    <include name="testCase1" />
+                </methods>
+            </class>
+            <class name="com.techproed.Batch3SeleniumPractice.day6.TestCase2">
+                <methods>
+                    <include name="demoga" />
+                </methods>
+            </class>
+
+        </classes>
+    </test>
+</suite>

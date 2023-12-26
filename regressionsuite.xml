@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="koala regression suit" verbose="2">
+<test name="Koala Test 1">
+    <packages>
+        <package name=".*"></package>
+    </packages>
+</test>
+
+    
+</suite>
