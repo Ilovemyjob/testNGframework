@@ -63,6 +63,10 @@ String URI = "https://www.potterapi.com/v1/";
     @Test
     public void noKey(){
 
+
+
+
+
         Response response = given().accept(ContentType.JSON).when().get(URI + "characters");
         System.out.println(response.prettyPrint());
         assertEquals(response.statusCode(),409);

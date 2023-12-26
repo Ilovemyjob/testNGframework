@@ -4,6 +4,9 @@ import org.openqa.selenium.support.ui.Select;
 
 public class deneme {
 
+
+
+
     //        1. Go to “http://webdriveruniversity.com/Popup-Alerts/index.html”
 //        2. Click CLICK ME of JavaScript Confirm Box
 //        3. Get the pop up text
